@@ -846,6 +846,6 @@ class Handler(BaseHTTPRequestHandler):
 
 
 if __name__ == "__main__":
-    server = HTTPServer(("127.0.0.1", 8096), Handler)
-    print("LinerNet web UI: http://127.0.0.1:8096")
+    server = HTTPServer(("127.0.0.1", 8080), Handler)
+    print("LinerNet web UI: http://127.0.0.1:8080")
     server.serve_forever()
