@@ -1,0 +1,250 @@
+{
+  "objective": {
+    "priority": "equal (profit + demand coverage)",
+    "objective_mode": "balanced",
+    "coverage_bonus_per_ffe": 1915.919332788415,
+    "seed_fraction": 0.75,
+    "target_coverage_pct": 80.0,
+    "seed_count": 15,
+    "target_floor_ffe": 110597.6,
+    "refinement_iters": 2,
+    "cg_verbose": true,
+    "use_llm_intel": true,
+    "use_llm_seeds": true,
+    "use_llm_cg": true,
+    "cg_max_iter": 15,
+    "max_transship_hops": 4,
+    "vessel_mix_target_fraction_of_cap": null,
+    "vessel_mix_penalty_per_vessel": 0.0,
+    "min_selected_route_utilization": null,
+    "large_vessel_bonus_per_ffe_capacity": 35.0,
+    "route_activation_penalty": 0.0,
+    "api_keys_in_ring": 39,
+    "auto_tune_stage4_policy": true,
+    "tuned_policy": {
+      "coverage_bonus_multiplier": 2.25,
+      "vessel_mix_target_fraction_of_cap": 0.95,
+      "vessel_mix_penalty_per_vessel": 350000.0,
+      "min_selected_route_utilization": 0.9,
+      "large_vessel_bonus_per_ffe_capacity": 40.0,
+      "route_activation_penalty": 150000.0
+    },
+    "use_route_port_filter": true,
+    "route_min_ports": 6,
+    "route_max_ports": 14,
+    "two_phase_stage4": true,
+    "two_phase_initial_runs": false,
+    "phase1_coverage_bonus_multiplier": 10.0,
+    "coverage_floor_ratio": 0.98,
+    "default_vessel_mix_fraction_of_cap": 0.85,
+    "vessel_mix_target_fraction_of_cap_effective": 0.85
+  },
+  "policy_tuning_trials": [
+    {
+      "trial": 1,
+      "config": {
+        "coverage_bonus_multiplier": 1.0,
+        "vessel_mix_target_fraction_of_cap": 0.85,
+        "vessel_mix_penalty_per_vessel": 0.0,
+        "min_selected_route_utilization": null,
+        "large_vessel_bonus_per_ffe_capacity": 35.0,
+        "route_activation_penalty": 0.0
+      },
+      "bb": {
+        "status": "optimal",
+        "served_pct": 52.186304,
+        "net_profit": 52242038.46,
+        "selected_routes": 12
+      }
+    },
+    {
+      "trial": 2,
+      "config": {
+        "coverage_bonus_multiplier": 1.25,
+        "vessel_mix_target_fraction_of_cap": 0.8,
+        "vessel_mix_penalty_per_vessel": 120000.0,
+        "min_selected_route_utilization": 0.8,
+        "large_vessel_bonus_per_ffe_capacity": 10.0,
+        "route_activation_penalty": 0.0
+      },
+      "bb": {
+        "status": "optimal",
+        "served_pct": 52.186304,
+        "net_profit": 49024288.46,
+        "selected_routes": 12
+      }
+    },
+    {
+      "trial": 3,
+      "config": {
+        "coverage_bonus_multiplier": 1.5,
+        "vessel_mix_target_fraction_of_cap": 0.85,
+        "vessel_mix_penalty_per_vessel": 180000.0,
+        "min_selected_route_utilization": 0.85,
+        "large_vessel_bonus_per_ffe_capacity": 20.0,
+        "route_activation_penalty": 50000.0
+      },
+      "bb": {
+        "status": "optimal",
+        "served_pct": 52.861183,
+        "net_profit": 47988488.01,
+        "selected_routes": 13
+      }
+    },
+    {
+      "trial": 4,
+      "config": {
+        "coverage_bonus_multiplier": 1.75,
+        "vessel_mix_target_fraction_of_cap": 0.9,
+        "vessel_mix_penalty_per_vessel": 250000.0,
+        "min_selected_route_utilization": 0.85,
+        "large_vessel_bonus_per_ffe_capacity": 30.0,
+        "route_activation_penalty": 100000.0
+      },
+      "bb": {
+        "status": "optimal",
+        "served_pct": 52.777275,
+        "net_profit": 47658685.99,
+        "selected_routes": 13
+      }
+    },
+    {
+      "trial": 5,
+      "config": {
+        "coverage_bonus_multiplier": 2.0,
+        "vessel_mix_target_fraction_of_cap": 0.92,
+        "vessel_mix_penalty_per_vessel": 300000.0,
+        "min_selected_route_utilization": 0.9,
+        "large_vessel_bonus_per_ffe_capacity": 35.0,
+        "route_activation_penalty": 120000.0
+      },
+      "bb": {
+        "status": "optimal",
+        "served_pct": 52.861183,
+        "net_profit": 48060338.01,
+        "selected_routes": 13
+      }
+    },
+    {
+      "trial": 6,
+      "config": {
+        "coverage_bonus_multiplier": 2.25,
+        "vessel_mix_target_fraction_of_cap": 0.95,
+        "vessel_mix_penalty_per_vessel": 350000.0,
+        "min_selected_route_utilization": 0.9,
+        "large_vessel_bonus_per_ffe_capacity": 40.0,
+        "route_activation_penalty": 150000.0
+      },
+      "bb": {
+        "status": "optimal",
+        "served_pct": 52.885054,
+        "net_profit": 45937507.98,
+        "selected_routes": 13
+      }
+    }
+  ],
+  "initial_runs": [
+    {
+      "tag": "run1",
+      "cg": {
+        "status": "max_iter",
+        "routes": 75,
+        "served_pct": 46.42,
+        "net_profit": -142394149.41
+      },
+      "bb": {
+        "status": "optimal",
+        "selected_routes": 13,
+        "served_ffe": 69837.0,
+        "served_pct": 50.5161,
+        "net_profit": 45205116.37,
+        "bb_json": "outputs/merge_pipeline/bb_run1.json"
+      },
+      "cg_routes_json": "outputs/cg_routes_run1.json"
+    },
+    {
+      "tag": "run2",
+      "cg": {
+        "status": "max_iter",
+        "routes": 83,
+        "served_pct": 44.4,
+        "net_profit": -148743424.39
+      },
+      "bb": {
+        "status": "optimal",
+        "selected_routes": 11,
+        "served_ffe": 59154.0,
+        "served_pct": 42.7886,
+        "net_profit": 45833833.13,
+        "bb_json": "outputs/merge_pipeline/bb_run2.json"
+      },
+      "cg_routes_json": "outputs/cg_routes_run2.json"
+    }
+  ],
+  "merge": {
+    "merged_pool_routes": 110,
+    "merged_routes_json": "outputs/merge_pipeline/cg_routes_merged.json",
+    "min_routes_selected_after_merge": 14,
+    "bb": {
+      "status": "optimal",
+      "selected_routes": 14,
+      "served_ffe": 73391.0,
+      "served_pct": 53.0869,
+      "net_profit": 41968435.45,
+      "bb_json": "outputs/merge_pipeline/bb_merged.json"
+    },
+    "seed_json": "outputs/merge_pipeline/seeds_from_merged.json",
+    "n_seed_routes": 14
+  },
+  "refinements": [
+    {
+      "tag": "refine1",
+      "cg": {
+        "status": "max_iter",
+        "routes": 72,
+        "served_pct": 42.19,
+        "net_profit": -111771187.85
+      },
+      "bb": {
+        "status": "optimal",
+        "selected_routes": 15,
+        "served_ffe": 68108.0,
+        "served_pct": 49.2654,
+        "net_profit": 31137821.17,
+        "bb_json": "outputs/merge_pipeline/bb_refine1.json"
+      },
+      "cg_routes_json": "outputs/cg_routes_refine1.json",
+      "n_seeds_next": 15
+    },
+    {
+      "tag": "refine2",
+      "cg": {
+        "status": "max_iter",
+        "routes": 72,
+        "served_pct": 36.05,
+        "net_profit": -141044601.41
+      },
+      "bb": {
+        "status": "optimal",
+        "selected_routes": 15,
+        "served_ffe": 74698.0,
+        "served_pct": 54.0323,
+        "net_profit": 49454577.02,
+        "bb_json": "outputs/merge_pipeline/bb_refine2.json"
+      },
+      "cg_routes_json": "outputs/cg_routes_refine2.json",
+      "n_seeds_next": 15
+    }
+  ],
+  "final": {
+    "bb_json": "outputs/merge_pipeline/bb_refine2.json",
+    "headline": {
+      "status": "optimal",
+      "selected_routes": 15,
+      "served_ffe": 74698.0,
+      "served_pct": 54.0323,
+      "net_profit": 49454577.02,
+      "bb_json": "outputs/merge_pipeline/bb_refine2.json"
+    }
+  }
+}

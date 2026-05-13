@@ -1,0 +1,274 @@
+[
+  {
+    "route_id": "SEED_MERGED_001",
+    "port_sequence": [
+      "USCHS",
+      "NLRTM",
+      "HKHKG",
+      "MYTPP",
+      "CNSHA",
+      "SGSIN",
+      "AUBNE"
+    ],
+    "vessel_class": "Panamax_1200",
+    "frequency": 1,
+    "cycle_days": 0.0,
+    "vessels_needed": 17,
+    "weekly_cost": 3042407.49,
+    "source": "merge_seed",
+    "rationale": "Top 14 seeds from SEED_MERGED"
+  },
+  {
+    "route_id": "SEED_MERGED_002",
+    "port_sequence": [
+      "CNYTN",
+      "HKHKG",
+      "MYTPP",
+      "ITGIT",
+      "NLRTM",
+      "GBFXT",
+      "DEBRV"
+    ],
+    "vessel_class": "Post_panamax",
+    "frequency": 1,
+    "cycle_days": 0.0,
+    "vessels_needed": 12,
+    "weekly_cost": 5818715.0,
+    "source": "merge_seed",
+    "rationale": "Top 14 seeds from SEED_MERGED"
+  },
+  {
+    "route_id": "SEED_MERGED_003",
+    "port_sequence": [
+      "CNTAO",
+      "HKHKG",
+      "MYTPP",
+      "BEANR",
+      "DEBRV",
+      "BRSSZ",
+      "NGAPP"
+    ],
+    "vessel_class": "Panamax_2400",
+    "frequency": 1,
+    "cycle_days": 0.0,
+    "vessels_needed": 16,
+    "weekly_cost": 4750041.58,
+    "source": "merge_seed",
+    "rationale": "Top 14 seeds from SEED_MERGED"
+  },
+  {
+    "route_id": "SEED_MERGED_004",
+    "port_sequence": [
+      "CNSHA",
+      "HKHKG",
+      "MYTPP",
+      "JPYOK",
+      "CNTAO",
+      "USLAX"
+    ],
+    "vessel_class": "Super_panamax",
+    "frequency": 1,
+    "cycle_days": 0.0,
+    "vessels_needed": 11,
+    "weekly_cost": 6205491.65,
+    "source": "merge_seed",
+    "rationale": "Top 14 seeds from SEED_MERGED"
+  },
+  {
+    "route_id": "SEED_MERGED_005",
+    "port_sequence": [
+      "HKHKG",
+      "MYTPP",
+      "AEJEA",
+      "ITGIT",
+      "BEANR",
+      "NLRTM",
+      "EGPSD",
+      "NGAPP"
+    ],
+    "vessel_class": "Panamax_2400",
+    "frequency": 1,
+    "cycle_days": 0.0,
+    "vessels_needed": 16,
+    "weekly_cost": 4530621.28,
+    "source": "merge_seed",
+    "rationale": "Top 14 seeds from SEED_MERGED"
+  },
+  {
+    "route_id": "SEED_MERGED_006",
+    "port_sequence": [
+      "ZADUR",
+      "NLRTM",
+      "GBFXT",
+      "DEBRV",
+      "USEWR",
+      "USCHS",
+      "AEJEA"
+    ],
+    "vessel_class": "Panamax_2400",
+    "frequency": 1,
+    "cycle_days": 0.0,
+    "vessels_needed": 17,
+    "weekly_cost": 4789662.56,
+    "source": "merge_seed",
+    "rationale": "Top 14 seeds from SEED_MERGED"
+  },
+  {
+    "route_id": "SEED_MERGED_007",
+    "port_sequence": [
+      "USLAX",
+      "JPYOK",
+      "KRPUS",
+      "CNTAO",
+      "AUBNE",
+      "TWKHH",
+      "NZAKL",
+      "ZADUR",
+      "PAMIT"
+    ],
+    "vessel_class": "Panamax_2400",
+    "frequency": 1,
+    "cycle_days": 0.0,
+    "vessels_needed": 20,
+    "weekly_cost": 5578055.16,
+    "source": "merge_seed",
+    "rationale": "Top 14 seeds from SEED_MERGED"
+  },
+  {
+    "route_id": "SEED_MERGED_008",
+    "port_sequence": [
+      "HKHKG",
+      "KRPUS",
+      "MYTPP",
+      "CNTAO",
+      "CNYTN",
+      "JPYOK",
+      "TWKHH",
+      "INNSA",
+      "PAMIT",
+      "NLRTM",
+      "BRSSZ"
+    ],
+    "vessel_class": "Feeder_800",
+    "frequency": 1,
+    "cycle_days": 0.0,
+    "vessels_needed": 26,
+    "weekly_cost": 2919957.61,
+    "source": "merge_seed",
+    "rationale": "Top 14 seeds from SEED_MERGED"
+  },
+  {
+    "route_id": "SEED_MERGED_009",
+    "port_sequence": [
+      "CNYTN",
+      "KRPUS",
+      "MYTPP",
+      "ESALG",
+      "USEWR",
+      "CAVAN"
+    ],
+    "vessel_class": "Panamax_1200",
+    "frequency": 1,
+    "cycle_days": 0.0,
+    "vessels_needed": 15,
+    "weekly_cost": 2720990.65,
+    "source": "merge_seed",
+    "rationale": "Top 14 seeds from SEED_MERGED"
+  },
+  {
+    "route_id": "SEED_MERGED_010",
+    "port_sequence": [
+      "CNSHA",
+      "HKHKG",
+      "MYTPP",
+      "SGSIN",
+      "EGPSD",
+      "ZADUR"
+    ],
+    "vessel_class": "Panamax_2400",
+    "frequency": 1,
+    "cycle_days": 0.0,
+    "vessels_needed": 10,
+    "weekly_cost": 3540785.72,
+    "source": "merge_seed",
+    "rationale": "Top 14 seeds from SEED_MERGED"
+  },
+  {
+    "route_id": "SEED_MERGED_011",
+    "port_sequence": [
+      "CNSHA",
+      "SGSIN",
+      "MYTPP",
+      "EGPSD",
+      "ESALG",
+      "MAPTM",
+      "ITGIT",
+      "LKCMB"
+    ],
+    "vessel_class": "Panamax_1200",
+    "frequency": 1,
+    "cycle_days": 0.0,
+    "vessels_needed": 10,
+    "weekly_cost": 2078816.59,
+    "source": "merge_seed",
+    "rationale": "Top 14 seeds from SEED_MERGED"
+  },
+  {
+    "route_id": "SEED_MERGED_012",
+    "port_sequence": [
+      "HKHKG",
+      "SGSIN",
+      "MYTPP",
+      "EGPSD",
+      "ESALG",
+      "MAPTM",
+      "ITGIT",
+      "LKCMB"
+    ],
+    "vessel_class": "Panamax_1200",
+    "frequency": 1,
+    "cycle_days": 0.0,
+    "vessels_needed": 10,
+    "weekly_cost": 1968720.9,
+    "source": "merge_seed",
+    "rationale": "Top 14 seeds from SEED_MERGED"
+  },
+  {
+    "route_id": "SEED_MERGED_013",
+    "port_sequence": [
+      "CNTAO",
+      "SGSIN",
+      "MYTPP",
+      "EGPSD",
+      "ESALG",
+      "MAPTM",
+      "ITGIT",
+      "LKCMB"
+    ],
+    "vessel_class": "Feeder_800",
+    "frequency": 1,
+    "cycle_days": 0.0,
+    "vessels_needed": 12,
+    "weekly_cost": 1630647.87,
+    "source": "merge_seed",
+    "rationale": "Top 14 seeds from SEED_MERGED"
+  },
+  {
+    "route_id": "SEED_MERGED_014",
+    "port_sequence": [
+      "CNYTN",
+      "KRPUS",
+      "SGSIN",
+      "ESALG",
+      "ITGIT",
+      "CAVAN"
+    ],
+    "vessel_class": "Panamax_1200",
+    "frequency": 1,
+    "cycle_days": 0.0,
+    "vessels_needed": 14,
+    "weekly_cost": 2559637.81,
+    "source": "merge_seed",
+    "rationale": "Top 14 seeds from SEED_MERGED"
+  }
+]

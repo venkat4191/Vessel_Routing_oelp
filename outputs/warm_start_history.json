@@ -1,0 +1,90 @@
+{
+  "rounds_run": 6,
+  "target_coverage_pct": 58.0,
+  "best": {
+    "round": 3,
+    "mip_net_profit": 32485168.43,
+    "mip_pct_served": 28.52069122657273,
+    "n_selected": 25
+  },
+  "history": [
+    {
+      "round": 1,
+      "cg_status": "converged",
+      "cg_iterations": 14,
+      "cg_routes": 84,
+      "cg_pct_served": 50.13,
+      "cg_net_profit": 6923936.26,
+      "mip_status": "optimal",
+      "mip_selected_routes": 25,
+      "mip_net_profit": 32470906.1,
+      "mip_pct_served": 28.46,
+      "planned_floor_pct": 42.0
+    },
+    {
+      "round": 2,
+      "cg_status": "converged",
+      "cg_iterations": 11,
+      "cg_routes": 85,
+      "cg_pct_served": 49.67,
+      "cg_net_profit": 3934223.56,
+      "mip_status": "optimal",
+      "mip_selected_routes": 25,
+      "mip_net_profit": 32464363.1,
+      "mip_pct_served": 28.51,
+      "planned_floor_pct": 45.2
+    },
+    {
+      "round": 3,
+      "cg_status": "converged",
+      "cg_iterations": 11,
+      "cg_routes": 82,
+      "cg_pct_served": 50.26,
+      "cg_net_profit": 9985440.0,
+      "mip_status": "optimal",
+      "mip_selected_routes": 25,
+      "mip_net_profit": 32485168.43,
+      "mip_pct_served": 28.52,
+      "planned_floor_pct": 48.4
+    },
+    {
+      "round": 4,
+      "cg_status": "converged",
+      "cg_iterations": 11,
+      "cg_routes": 82,
+      "cg_pct_served": 50.26,
+      "cg_net_profit": 9985440.0,
+      "mip_status": "optimal",
+      "mip_selected_routes": 25,
+      "mip_net_profit": 32485168.43,
+      "mip_pct_served": 28.52,
+      "planned_floor_pct": 51.6
+    },
+    {
+      "round": 5,
+      "cg_status": "converged",
+      "cg_iterations": 11,
+      "cg_routes": 82,
+      "cg_pct_served": 50.26,
+      "cg_net_profit": 9985440.0,
+      "mip_status": "optimal",
+      "mip_selected_routes": 25,
+      "mip_net_profit": 32485168.43,
+      "mip_pct_served": 28.52,
+      "planned_floor_pct": 54.8
+    },
+    {
+      "round": 6,
+      "cg_status": "converged",
+      "cg_iterations": 11,
+      "cg_routes": 82,
+      "cg_pct_served": 50.26,
+      "cg_net_profit": 9985440.0,
+      "mip_status": "optimal",
+      "mip_selected_routes": 25,
+      "mip_net_profit": 32485168.43,
+      "mip_pct_served": 28.52,
+      "planned_floor_pct": 58.0
+    }
+  ]
+}

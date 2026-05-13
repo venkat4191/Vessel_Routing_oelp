@@ -1,0 +1,64 @@
+{
+  "scenarios": [
+    {
+      "scenario": "full_cg_baseline",
+      "demand_mult": 1.0,
+      "route_set": "full_cg",
+      "n_routes": 63,
+      "lp_revenue": 137430050.0,
+      "net_profit": 11560566.48,
+      "total_op_cost": 125869483.52,
+      "served_ffe": 60349.0,
+      "pct_served": 43.65,
+      "rmp_status": "optimal"
+    },
+    {
+      "scenario": "mip_baseline",
+      "demand_mult": 1.0,
+      "route_set": "mip_subset",
+      "n_routes": 23,
+      "lp_revenue": 92991130.0,
+      "net_profit": 32379149.5,
+      "total_op_cost": 60611980.5,
+      "served_ffe": 38528.0,
+      "pct_served": 27.87,
+      "rmp_status": "optimal"
+    },
+    {
+      "scenario": "mip_demand_110",
+      "demand_mult": 1.1,
+      "route_set": "mip_subset",
+      "n_routes": 23,
+      "lp_revenue": 97363702.0,
+      "net_profit": 36751721.5,
+      "total_op_cost": 60611980.5,
+      "served_ffe": 39439.8,
+      "pct_served": 25.94,
+      "rmp_status": "optimal"
+    },
+    {
+      "scenario": "mip_demand_90",
+      "demand_mult": 0.9,
+      "route_set": "mip_subset",
+      "n_routes": 23,
+      "lp_revenue": 85591916.0,
+      "net_profit": 24979935.5,
+      "total_op_cost": 60611980.5,
+      "served_ffe": 36151.7,
+      "pct_served": 29.06,
+      "rmp_status": "optimal"
+    },
+    {
+      "scenario": "mip_peak",
+      "demand_mult": 1.3,
+      "route_set": "mip_subset",
+      "n_routes": 23,
+      "lp_revenue": 102076649.0,
+      "net_profit": 41464668.5,
+      "total_op_cost": 60611980.5,
+      "served_ffe": 40450.0,
+      "pct_served": 22.51,
+      "rmp_status": "optimal"
+    }
+  ]
+}

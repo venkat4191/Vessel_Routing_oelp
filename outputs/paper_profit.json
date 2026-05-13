@@ -1,0 +1,22 @@
+{
+  "eta": 34765952.55,
+  "eta_million_usd_per_week": 34.765952549999994,
+  "r_total": 221290920.0,
+  "c_reject": 19296000.0,
+  "c_handle": 56697154.0,
+  "c_ndp": 110531813.45,
+  "c_service": 58996000.0,
+  "c_unused": 0.0,
+  "c_voyage_port_canal": 49728896.2,
+  "c_idle": 1485858.0,
+  "c_escort": 321059.25,
+  "served_ffe": 118951.0,
+  "total_demand_ffe": 138247.0,
+  "unserved_ffe": 19296.0,
+  "details": {
+    "pct_served": 86.0424,
+    "n_services": 65,
+    "rejection_penalty_per_ffe": 1000,
+    "formula": "eta = R_total - C_reject - C_handle - C_NDP"
+  }
+}

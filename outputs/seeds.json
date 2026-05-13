@@ -1,0 +1,194 @@
+[
+  {
+    "route_id": "S01",
+    "port_sequence": [
+      "KRPUS",
+      "CNTAO",
+      "CNYTN",
+      "MYTPP",
+      "MAPTM",
+      "NLRTM",
+      "DEBRV"
+    ],
+    "vessel_class": "Super_panamax",
+    "frequency": 1,
+    "cycle_days": 62.8,
+    "vessels_needed": 9,
+    "weekly_cost": 9835626.74,
+    "covers_od": [
+      "KRPUS->DEBRV",
+      "CNYTN->NLRTM",
+      "MYTPP->DEBRV",
+      "CNYTN->DEBRV",
+      "CNTAO->DEBRV",
+      "MYTPP->NLRTM",
+      "CNTAO->NLRTM"
+    ],
+    "source": "llm",
+    "rationale": "Major Asia-North Europe corridor, connecting North China/Korea to North Continent via Suez. Utilizes key Asian and European hubs."
+  },
+  {
+    "route_id": "S02",
+    "port_sequence": [
+      "CNSHA",
+      "HKHKG",
+      "MYTPP",
+      "ESBCN",
+      "NLRTM",
+      "DEBRV"
+    ],
+    "vessel_class": "Super_panamax",
+    "frequency": 1,
+    "cycle_days": 59.47,
+    "vessels_needed": 9,
+    "weekly_cost": 9658999.21,
+    "covers_od": [
+      "CNSHA->DEBRV",
+      "CNSHA->NLRTM",
+      "MYTPP->DEBRV",
+      "HKHKG->DEBRV",
+      "HKHKG->NLRTM",
+      "MYTPP->NLRTM"
+    ],
+    "source": "llm",
+    "rationale": "Another primary Asia-North Europe corridor, focusing on Central/South China and Hong Kong to North Continent via Suez, with Mediterranean hub calls."
+  },
+  {
+    "route_id": "S05",
+    "port_sequence": [
+      "CNSHA",
+      "MYTPP",
+      "MAPTM",
+      "NGAPP",
+      "ESBCN",
+      "MYTPP"
+    ],
+    "vessel_class": "Panamax_2400",
+    "frequency": 1,
+    "cycle_days": 69.79,
+    "vessels_needed": 10,
+    "weekly_cost": 4546725.0,
+    "covers_od": [
+      "CNSHA->NGAPP",
+      "MYTPP->NGAPP"
+    ],
+    "source": "llm",
+    "rationale": "Connects Asia to West Africa, a growing trade lane, using West Med hubs for transshipment to Apapa (Lagos)."
+  },
+  {
+    "route_id": "S06",
+    "port_sequence": [
+      "BRSSZ",
+      "ESBCN",
+      "MAPTM",
+      "DEBRV",
+      "NLRTM",
+      "ESBCN"
+    ],
+    "vessel_class": "Panamax_2400",
+    "frequency": 1,
+    "cycle_days": 42.39,
+    "vessels_needed": 7,
+    "weekly_cost": 2333467.44,
+    "covers_od": [
+      "BRSSZ->DEBRV"
+    ],
+    "source": "llm",
+    "rationale": "Connects South America East Coast (Santos) to North Europe, a significant intercontinental route, utilizing West Med hubs."
+  },
+  {
+    "route_id": "S05",
+    "port_sequence": [
+      "CNSHA",
+      "CNYTN",
+      "SGSIN",
+      "EGPSD",
+      "DEBRV",
+      "NLRTM"
+    ],
+    "vessel_class": "Super_panamax",
+    "frequency": 1,
+    "cycle_days": 58.88,
+    "vessels_needed": 9,
+    "weekly_cost": 9614885.74,
+    "covers_od": [
+      "CNSHA->DEBRV",
+      "CNYTN->NLRTM",
+      "CNSHA->NLRTM",
+      "CNYTN->DEBRV"
+    ],
+    "source": "analytical",
+    "rationale": "Covers #1 CNSHA->DEBRV, #3 CNYTN->NLRTM, #4 CNSHA->NLRTM, #9 CNYTN->DEBRV"
+  },
+  {
+    "route_id": "S06",
+    "port_sequence": [
+      "KRPUS",
+      "JPYOK",
+      "HKHKG",
+      "EGPSD",
+      "DEBRV",
+      "NLRTM"
+    ],
+    "vessel_class": "Super_panamax",
+    "frequency": 1,
+    "cycle_days": 63.07,
+    "vessels_needed": 10,
+    "weekly_cost": 10328754.53,
+    "covers_od": [
+      "KRPUS->DEBRV",
+      "JPYOK->NLRTM",
+      "HKHKG->DEBRV",
+      "HKHKG->NLRTM",
+      "KRPUS->EGPSD"
+    ],
+    "source": "analytical",
+    "rationale": "Covers #2 KRPUS->DEBRV, #6 JPYOK->NLRTM, #11 HKHKG->DEBRV, #13 HKHKG->NLRTM"
+  },
+  {
+    "route_id": "S07",
+    "port_sequence": [
+      "CNSHA",
+      "CNYTN",
+      "KRPUS",
+      "USLAX"
+    ],
+    "vessel_class": "Super_panamax",
+    "frequency": 1,
+    "cycle_days": 35.68,
+    "vessels_needed": 6,
+    "weekly_cost": 4745841.32,
+    "covers_od": [
+      "CNYTN->USLAX",
+      "CNSHA->USLAX"
+    ],
+    "source": "analytical",
+    "rationale": "Covers #5 CNYTN->USLAX, #17 CNSHA->USLAX"
+  },
+  {
+    "route_id": "S08",
+    "port_sequence": [
+      "CNTAO",
+      "HKHKG",
+      "MYTPP",
+      "EGPSD",
+      "DEBRV",
+      "NLRTM"
+    ],
+    "vessel_class": "Super_panamax",
+    "frequency": 1,
+    "cycle_days": 60.37,
+    "vessels_needed": 9,
+    "weekly_cost": 9727164.88,
+    "covers_od": [
+      "MYTPP->DEBRV",
+      "CNTAO->DEBRV",
+      "HKHKG->DEBRV",
+      "HKHKG->NLRTM",
+      "MYTPP->NLRTM",
+      "CNTAO->NLRTM"
+    ],
+    "source": "analytical",
+    "rationale": "Covers #7 MYTPP->DEBRV, #10 CNTAO->DEBRV, #11 HKHKG->DEBRV, #13 HKHKG->NLRTM, #15 MYTPP->NLRTM"
+  }
+]

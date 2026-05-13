@@ -1,0 +1,1212 @@
+[
+  {
+    "route_id": "SOL1_S01",
+    "port_sequence": [
+      "CNYTN",
+      "ITGIT",
+      "BEANR",
+      "PAMIT",
+      "USMIA",
+      "NGAPP",
+      "HKHKG",
+      "MAPTM",
+      "CNYTN"
+    ],
+    "vessel_class": "Feeder_450",
+    "frequency": 1,
+    "capacity_ffe": 450,
+    "weekly_cost": 2652100.0,
+    "vessels_needed": 24.11
+  },
+  {
+    "route_id": "SOL1_S02",
+    "port_sequence": [
+      "CNYTN",
+      "TWKHH",
+      "NZAKL",
+      "CNSHA",
+      "MYTPP",
+      "AEJEA",
+      "INNSA",
+      "SAJED",
+      "ZADUR",
+      "KEMBA",
+      "HKHKG",
+      "LKCMB",
+      "OMSLL",
+      "MYPKG",
+      "CNYTN"
+    ],
+    "vessel_class": "Feeder_800",
+    "frequency": 1,
+    "capacity_ffe": 800,
+    "weekly_cost": 3375750.0,
+    "vessels_needed": 19.29
+  },
+  {
+    "route_id": "SOL1_S03",
+    "port_sequence": [
+      "CNYTN",
+      "TWKHH",
+      "NZAKL",
+      "PABLB",
+      "CNSHA",
+      "MYTPP",
+      "LKCMB",
+      "PKBQM",
+      "HKHKG",
+      "MYPKG",
+      "KEMBA",
+      "INNSA",
+      "SGSIN",
+      "CNYTN"
+    ],
+    "vessel_class": "Feeder_800",
+    "frequency": 1,
+    "capacity_ffe": 800,
+    "weekly_cost": 3466750.0,
+    "vessels_needed": 19.81
+  },
+  {
+    "route_id": "SOL1_S04",
+    "port_sequence": [
+      "CNYTN",
+      "TWKHH",
+      "NZAKL",
+      "PABLB",
+      "CLSAI",
+      "JPYOK",
+      "CNSHA",
+      "AEJEA",
+      "PKBQM",
+      "KEMBA",
+      "ZADUR",
+      "OMSLL",
+      "SGSIN",
+      "LKCMB",
+      "MYPKG",
+      "INNSA",
+      "AOLAD",
+      "MYTPP",
+      "HKHKG",
+      "SAJED",
+      "TRAMB",
+      "CNYTN"
+    ],
+    "vessel_class": "Panamax_1200",
+    "frequency": 1,
+    "capacity_ffe": 1200,
+    "weekly_cost": 8056440.0,
+    "vessels_needed": 28.98
+  },
+  {
+    "route_id": "SOL1_S05",
+    "port_sequence": [
+      "CNYTN",
+      "TWKHH",
+      "NZAKL",
+      "CLSAI",
+      "PABLB",
+      "ECGYE",
+      "PAMIT",
+      "USEWR",
+      "USMIA",
+      "BEZEE",
+      "BEANR",
+      "NLRTM",
+      "DEHAM",
+      "ITGIT",
+      "EGPSD",
+      "MAPTM",
+      "ESBCN",
+      "CAMTR",
+      "DEBRV",
+      "GBFXT",
+      "TRAMB",
+      "SAJED",
+      "INNSA",
+      "SGSIN",
+      "AEJEA",
+      "LKCMB",
+      "OMSLL",
+      "KEMBA",
+      "AOLAD",
+      "GHTKD",
+      "UYMVD",
+      "MYTPP",
+      "MYPKG",
+      "PKBQM",
+      "ZADUR",
+      "HKHKG",
+      "NGAPP",
+      "CNYTN"
+    ],
+    "vessel_class": "Panamax_1200",
+    "frequency": 1,
+    "capacity_ffe": 1200,
+    "weekly_cost": 11514760.0,
+    "vessels_needed": 41.42
+  },
+  {
+    "route_id": "SOL1_S06",
+    "port_sequence": [
+      "CNYTN",
+      "HKHKG",
+      "DEBRV",
+      "NLRTM",
+      "GBFXT",
+      "USCHS",
+      "ITGIT",
+      "ESALG",
+      "NGAPP",
+      "BRSSZ",
+      "ZADUR",
+      "AEJEA",
+      "MYTPP",
+      "CNSHA",
+      "CNYTN"
+    ],
+    "vessel_class": "Panamax_2400",
+    "frequency": 1,
+    "capacity_ffe": 2400,
+    "weekly_cost": 7146920.0,
+    "vessels_needed": 17.56
+  },
+  {
+    "route_id": "SOL1_S07",
+    "port_sequence": [
+      "CNYTN",
+      "HKHKG",
+      "CNTAO",
+      "CNSHA",
+      "ITGIT",
+      "EGPSD",
+      "MYTPP",
+      "CNYTN"
+    ],
+    "vessel_class": "Panamax_2400",
+    "frequency": 1,
+    "capacity_ffe": 2400,
+    "weekly_cost": 3003660.0,
+    "vessels_needed": 7.38
+  },
+  {
+    "route_id": "SOL1_S08",
+    "port_sequence": [
+      "CNYTN",
+      "HKHKG",
+      "JPYOK",
+      "CNSHA",
+      "MYTPP",
+      "ITGIT",
+      "EGPSD",
+      "SAJED",
+      "LKCMB",
+      "CNYTN"
+    ],
+    "vessel_class": "Panamax_2400",
+    "frequency": 1,
+    "capacity_ffe": 2400,
+    "weekly_cost": 3304840.0,
+    "vessels_needed": 8.12
+  },
+  {
+    "route_id": "SOL1_S09",
+    "port_sequence": [
+      "CNYTN",
+      "HKHKG",
+      "JPYOK",
+      "KRPUS",
+      "CNSHA",
+      "MYTPP",
+      "ITGIT",
+      "EGPSD",
+      "SAJED",
+      "AEJEA",
+      "INNSA",
+      "LKCMB",
+      "CNYTN"
+    ],
+    "vessel_class": "Panamax_2400",
+    "frequency": 1,
+    "capacity_ffe": 2400,
+    "weekly_cost": 3736260.0,
+    "vessels_needed": 9.18
+  },
+  {
+    "route_id": "SOL1_S10",
+    "port_sequence": [
+      "CNYTN",
+      "HKHKG",
+      "CNSHA",
+      "JPYOK",
+      "USLAX",
+      "CNTAO",
+      "KRPUS",
+      "TWKHH",
+      "CNYTN"
+    ],
+    "vessel_class": "Panamax_2400",
+    "frequency": 1,
+    "capacity_ffe": 2400,
+    "weekly_cost": 2625150.0,
+    "vessels_needed": 6.45
+  },
+  {
+    "route_id": "SOL1_S11",
+    "port_sequence": [
+      "CNYTN",
+      "HKHKG",
+      "CNTAO",
+      "KRPUS",
+      "USLAX",
+      "CAVAN",
+      "JPYOK",
+      "CNSHA",
+      "TWKHH",
+      "NGAPP",
+      "GHTKD",
+      "CNYTN"
+    ],
+    "vessel_class": "Panamax_2400",
+    "frequency": 1,
+    "capacity_ffe": 2400,
+    "weekly_cost": 5738700.0,
+    "vessels_needed": 14.1
+  },
+  {
+    "route_id": "SOL1_S12",
+    "port_sequence": [
+      "CNYTN",
+      "HKHKG",
+      "CNTAO",
+      "CNSHA",
+      "USLAX",
+      "CAVAN",
+      "JPYOK",
+      "KRPUS",
+      "TWKHH",
+      "AUBNE",
+      "CNYTN"
+    ],
+    "vessel_class": "Panamax_2400",
+    "frequency": 1,
+    "capacity_ffe": 2400,
+    "weekly_cost": 3988600.0,
+    "vessels_needed": 9.8
+  },
+  {
+    "route_id": "SOL1_S13",
+    "port_sequence": [
+      "CNYTN",
+      "HKHKG",
+      "TWKHH",
+      "CNSHA",
+      "CNTAO",
+      "AEJEA",
+      "INNSA",
+      "OMSLL",
+      "MYTPP",
+      "CNYTN"
+    ],
+    "vessel_class": "Panamax_2400",
+    "frequency": 1,
+    "capacity_ffe": 2400,
+    "weekly_cost": 2686200.0,
+    "vessels_needed": 6.6
+  },
+  {
+    "route_id": "SOL1_S14",
+    "port_sequence": [
+      "CNYTN",
+      "MYTPP",
+      "ESALG",
+      "GBFXT",
+      "DEBRV",
+      "NLRTM",
+      "NGAPP",
+      "ZADUR",
+      "HKHKG",
+      "TRAMB",
+      "BEANR",
+      "BEZEE",
+      "ITGIT",
+      "SAJED",
+      "LKCMB",
+      "CNYTN"
+    ],
+    "vessel_class": "Post_panamax",
+    "frequency": 1,
+    "capacity_ffe": 4200,
+    "weekly_cost": 9479600.0,
+    "vessels_needed": 18.23
+  },
+  {
+    "route_id": "SOL1_S15",
+    "port_sequence": [
+      "CNYTN",
+      "GHTKD",
+      "USCHS",
+      "PAMIT",
+      "USMIA",
+      "NLRTM",
+      "AEJEA",
+      "MYTPP",
+      "ITGIT",
+      "GBFXT",
+      "DEBRV",
+      "MAPTM",
+      "CNYTN"
+    ],
+    "vessel_class": "Post_panamax",
+    "frequency": 1,
+    "capacity_ffe": 4200,
+    "weekly_cost": 10093200.0,
+    "vessels_needed": 19.41
+  },
+  {
+    "route_id": "SOL1_S16",
+    "port_sequence": [
+      "CNYTN",
+      "ZADUR",
+      "USCHS",
+      "PAMIT",
+      "USMIA",
+      "USEWR",
+      "BRSSZ",
+      "DEBRV",
+      "ESALG",
+      "GHTKD",
+      "NGAPP",
+      "CNYTN"
+    ],
+    "vessel_class": "Post_panamax",
+    "frequency": 1,
+    "capacity_ffe": 4200,
+    "weekly_cost": 9276800.0,
+    "vessels_needed": 17.84
+  },
+  {
+    "route_id": "SOL1_S17",
+    "port_sequence": [
+      "CNYTN",
+      "CNSHA",
+      "MYTPP",
+      "CNYTN"
+    ],
+    "vessel_class": "Post_panamax",
+    "frequency": 1,
+    "capacity_ffe": 4200,
+    "weekly_cost": 1076400.0,
+    "vessels_needed": 2.07
+  },
+  {
+    "route_id": "SOL1_S18",
+    "port_sequence": [
+      "CNYTN",
+      "CNSHA",
+      "CNYTN"
+    ],
+    "vessel_class": "Post_panamax",
+    "frequency": 1,
+    "capacity_ffe": 4200,
+    "weekly_cost": 457600.0,
+    "vessels_needed": 0.88
+  },
+  {
+    "route_id": "SOL1_S19",
+    "port_sequence": [
+      "CNYTN",
+      "CNTAO",
+      "CNSHA",
+      "ZADUR",
+      "NGAPP",
+      "NLRTM",
+      "DEHAM",
+      "DEBRV",
+      "BEANR",
+      "GBFXT",
+      "EGPSD",
+      "MYTPP",
+      "CNYTN"
+    ],
+    "vessel_class": "Super_panamax",
+    "frequency": 1,
+    "capacity_ffe": 7500,
+    "weekly_cost": 12097816.29,
+    "vessels_needed": 11.07
+  },
+  {
+    "route_id": "SOL2_S03",
+    "port_sequence": [
+      "OMSLL",
+      "SAJED",
+      "KEMBA",
+      "LKCMB",
+      "INNSA",
+      "OMSLL"
+    ],
+    "vessel_class": "Feeder_450",
+    "frequency": 1,
+    "capacity_ffe": 450,
+    "weekly_cost": 520300.0,
+    "vessels_needed": 4.73
+  },
+  {
+    "route_id": "SOL2_S04",
+    "port_sequence": [
+      "AEJEA",
+      "INNSA",
+      "AEJEA"
+    ],
+    "vessel_class": "Feeder_450",
+    "frequency": 1,
+    "capacity_ffe": 450,
+    "weekly_cost": 160600.0,
+    "vessels_needed": 1.46
+  },
+  {
+    "route_id": "SOL2_S07",
+    "port_sequence": [
+      "PABLB",
+      "ECGYE",
+      "PABLB"
+    ],
+    "vessel_class": "Feeder_450",
+    "frequency": 1,
+    "capacity_ffe": 450,
+    "weekly_cost": 121000.0,
+    "vessels_needed": 1.1
+  },
+  {
+    "route_id": "SOL2_S08",
+    "port_sequence": [
+      "PAMIT",
+      "USCHS",
+      "ECGYE",
+      "PAMIT"
+    ],
+    "vessel_class": "Feeder_450",
+    "frequency": 1,
+    "capacity_ffe": 450,
+    "weekly_cost": 326700.0,
+    "vessels_needed": 2.97
+  },
+  {
+    "route_id": "SOL2_S09",
+    "port_sequence": [
+      "LKCMB",
+      "MYTPP",
+      "TWKHH",
+      "CNTAO",
+      "HKHKG",
+      "MYPKG",
+      "INNSA",
+      "LKCMB"
+    ],
+    "vessel_class": "Feeder_800",
+    "frequency": 1,
+    "capacity_ffe": 800,
+    "weekly_cost": 932750.0,
+    "vessels_needed": 5.33
+  },
+  {
+    "route_id": "SOL2_S10",
+    "port_sequence": [
+      "PKBQM",
+      "SAJED",
+      "OMSLL",
+      "INNSA",
+      "PKBQM"
+    ],
+    "vessel_class": "Feeder_800",
+    "frequency": 1,
+    "capacity_ffe": 800,
+    "weekly_cost": 477750.0,
+    "vessels_needed": 2.73
+  },
+  {
+    "route_id": "SOL2_S11",
+    "port_sequence": [
+      "MAPTM",
+      "USEWR",
+      "USLAX",
+      "PABLB",
+      "PAMIT",
+      "BRSSZ",
+      "NGAPP",
+      "ESALG",
+      "MAPTM"
+    ],
+    "vessel_class": "Feeder_800",
+    "frequency": 1,
+    "capacity_ffe": 800,
+    "weekly_cost": 2126250.0,
+    "vessels_needed": 12.15
+  },
+  {
+    "route_id": "SOL2_S17",
+    "port_sequence": [
+      "JPYOK",
+      "KRPUS",
+      "CNTAO",
+      "CAVAN",
+      "SGSIN",
+      "MYTPP",
+      "AEJEA",
+      "SAJED",
+      "OMSLL",
+      "MYPKG",
+      "HKHKG",
+      "CNYTN",
+      "TWKHH",
+      "CNSHA",
+      "JPYOK"
+    ],
+    "vessel_class": "Panamax_1200",
+    "frequency": 1,
+    "capacity_ffe": 1200,
+    "weekly_cost": 3074680.0,
+    "vessels_needed": 11.06
+  },
+  {
+    "route_id": "SOL2_S18",
+    "port_sequence": [
+      "EGPSD",
+      "SAJED",
+      "MYPKG",
+      "HKHKG",
+      "MYTPP",
+      "LKCMB",
+      "OMSLL",
+      "ESBCN",
+      "ITGIT",
+      "EGPSD"
+    ],
+    "vessel_class": "Panamax_1200",
+    "frequency": 1,
+    "capacity_ffe": 1200,
+    "weekly_cost": 1876500.0,
+    "vessels_needed": 6.75
+  },
+  {
+    "route_id": "SOL2_S19",
+    "port_sequence": [
+      "CNSHA",
+      "JPYOK",
+      "CAVAN",
+      "CNTAO",
+      "CNSHA"
+    ],
+    "vessel_class": "Panamax_1200",
+    "frequency": 1,
+    "capacity_ffe": 1200,
+    "weekly_cost": 1153700.0,
+    "vessels_needed": 4.15
+  },
+  {
+    "route_id": "SOL2_S21",
+    "port_sequence": [
+      "SGSIN",
+      "HKHKG",
+      "KRPUS",
+      "CNTAO",
+      "USLAX",
+      "CNSHA",
+      "TWKHH",
+      "MYTPP",
+      "SGSIN"
+    ],
+    "vessel_class": "Panamax_1200",
+    "frequency": 1,
+    "capacity_ffe": 1200,
+    "weekly_cost": 1868160.0,
+    "vessels_needed": 6.72
+  },
+  {
+    "route_id": "SOL2_S22",
+    "port_sequence": [
+      "MYPKG",
+      "MYTPP",
+      "TWKHH",
+      "CAVAN",
+      "AUBNE",
+      "MYPKG"
+    ],
+    "vessel_class": "Panamax_1200",
+    "frequency": 1,
+    "capacity_ffe": 1200,
+    "weekly_cost": 1865380.0,
+    "vessels_needed": 6.71
+  },
+  {
+    "route_id": "SOL2_S23",
+    "port_sequence": [
+      "NZAKL",
+      "AUBNE",
+      "NZAKL"
+    ],
+    "vessel_class": "Panamax_1200",
+    "frequency": 1,
+    "capacity_ffe": 1200,
+    "weekly_cost": 325260.0,
+    "vessels_needed": 1.17
+  },
+  {
+    "route_id": "SOL2_S24",
+    "port_sequence": [
+      "KRPUS",
+      "MYPKG",
+      "MYTPP",
+      "AUBNE",
+      "NZAKL",
+      "USLAX",
+      "CAVAN",
+      "JPYOK",
+      "TWKHH",
+      "HKHKG",
+      "CNTAO",
+      "KRPUS"
+    ],
+    "vessel_class": "Panamax_1200",
+    "frequency": 1,
+    "capacity_ffe": 1200,
+    "weekly_cost": 2518680.0,
+    "vessels_needed": 9.06
+  },
+  {
+    "route_id": "SOL2_S25",
+    "port_sequence": [
+      "USEWR",
+      "USCHS",
+      "GBFXT",
+      "DEBRV",
+      "ESALG",
+      "MAPTM",
+      "EGPSD",
+      "SAJED",
+      "USEWR"
+    ],
+    "vessel_class": "Panamax_1200",
+    "frequency": 1,
+    "capacity_ffe": 1200,
+    "weekly_cost": 2265700.0,
+    "vessels_needed": 8.15
+  },
+  {
+    "route_id": "SOL2_S27",
+    "port_sequence": [
+      "MYTPP",
+      "CNYTN",
+      "OMSLL",
+      "SAJED",
+      "NGAPP",
+      "ZADUR",
+      "CNSHA",
+      "MYTPP"
+    ],
+    "vessel_class": "Panamax_2400",
+    "frequency": 1,
+    "capacity_ffe": 2400,
+    "weekly_cost": 4289780.0,
+    "vessels_needed": 10.54
+  },
+  {
+    "route_id": "SOL2_S29",
+    "port_sequence": [
+      "AUBNE",
+      "NZAKL",
+      "TWKHH",
+      "CNYTN",
+      "SGSIN",
+      "AUBNE"
+    ],
+    "vessel_class": "Panamax_2400",
+    "frequency": 1,
+    "capacity_ffe": 2400,
+    "weekly_cost": 2136750.0,
+    "vessels_needed": 5.25
+  },
+  {
+    "route_id": "SOL2_S31",
+    "port_sequence": [
+      "PABLB",
+      "USEWR",
+      "PAMIT",
+      "ESALG",
+      "NLRTM",
+      "USCHS",
+      "USMIA",
+      "CLSAI",
+      "PABLB"
+    ],
+    "vessel_class": "Panamax_2400",
+    "frequency": 1,
+    "capacity_ffe": 2400,
+    "weekly_cost": 3630440.0,
+    "vessels_needed": 8.92
+  },
+  {
+    "route_id": "SOL2_S33",
+    "port_sequence": [
+      "CLSAI",
+      "USLAX",
+      "CAVAN",
+      "PABLB",
+      "PAMIT",
+      "CLSAI"
+    ],
+    "vessel_class": "Panamax_2400",
+    "frequency": 1,
+    "capacity_ffe": 2400,
+    "weekly_cost": 2458280.0,
+    "vessels_needed": 6.04
+  },
+  {
+    "route_id": "SOL2_S34",
+    "port_sequence": [
+      "ITGIT",
+      "MAPTM",
+      "BRSSZ",
+      "GBFXT",
+      "DEBRV",
+      "SAJED",
+      "EGPSD",
+      "ITGIT"
+    ],
+    "vessel_class": "Panamax_2400",
+    "frequency": 1,
+    "capacity_ffe": 2400,
+    "weekly_cost": 2995520.0,
+    "vessels_needed": 7.36
+  },
+  {
+    "route_id": "SOL2_S35",
+    "port_sequence": [
+      "BEANR",
+      "DEBRV",
+      "DEHAM",
+      "ITGIT",
+      "MAPTM",
+      "BEANR"
+    ],
+    "vessel_class": "Panamax_2400",
+    "frequency": 1,
+    "capacity_ffe": 2400,
+    "weekly_cost": 1135530.0,
+    "vessels_needed": 2.79
+  },
+  {
+    "route_id": "SOL2_S36",
+    "port_sequence": [
+      "USMIA",
+      "NLRTM",
+      "BEANR",
+      "EGPSD",
+      "SAJED",
+      "AEJEA",
+      "NGAPP",
+      "PAMIT",
+      "USMIA"
+    ],
+    "vessel_class": "Panamax_2400",
+    "frequency": 1,
+    "capacity_ffe": 2400,
+    "weekly_cost": 4065930.0,
+    "vessels_needed": 9.99
+  },
+  {
+    "route_id": "SOL2_S37",
+    "port_sequence": [
+      "CNYTN",
+      "HKHKG",
+      "SGSIN",
+      "MYTPP",
+      "MYPKG",
+      "ZADUR",
+      "CNTAO",
+      "CNYTN"
+    ],
+    "vessel_class": "Panamax_2400",
+    "frequency": 1,
+    "capacity_ffe": 2400,
+    "weekly_cost": 2718760.0,
+    "vessels_needed": 6.68
+  },
+  {
+    "route_id": "SOL2_S38",
+    "port_sequence": [
+      "BRSSZ",
+      "PAMIT",
+      "USMIA",
+      "USCHS",
+      "ESALG",
+      "ITGIT",
+      "MAPTM",
+      "NGAPP",
+      "BRSSZ"
+    ],
+    "vessel_class": "Panamax_2400",
+    "frequency": 1,
+    "capacity_ffe": 2400,
+    "weekly_cost": 3142040.0,
+    "vessels_needed": 7.72
+  },
+  {
+    "route_id": "SOL2_S39",
+    "port_sequence": [
+      "ITGIT",
+      "AEJEA",
+      "MYTPP",
+      "OMSLL",
+      "SAJED",
+      "BEZEE",
+      "NLRTM",
+      "MAPTM",
+      "ITGIT"
+    ],
+    "vessel_class": "Post_panamax",
+    "frequency": 1,
+    "capacity_ffe": 4200,
+    "weekly_cost": 4071600.0,
+    "vessels_needed": 7.83
+  },
+  {
+    "route_id": "SOL2_S40",
+    "port_sequence": [
+      "ESBCN",
+      "GBFXT",
+      "NLRTM",
+      "DEBRV",
+      "EGPSD",
+      "SAJED",
+      "ESBCN"
+    ],
+    "vessel_class": "Post_panamax",
+    "frequency": 1,
+    "capacity_ffe": 4200,
+    "weekly_cost": 2111200.0,
+    "vessels_needed": 4.06
+  },
+  {
+    "route_id": "SOL2_S43",
+    "port_sequence": [
+      "AEJEA",
+      "SAJED",
+      "ITGIT",
+      "ESALG",
+      "LKCMB",
+      "AEJEA"
+    ],
+    "vessel_class": "Post_panamax",
+    "frequency": 1,
+    "capacity_ffe": 4200,
+    "weekly_cost": 2698800.0,
+    "vessels_needed": 5.19
+  },
+  {
+    "route_id": "SOL2_S44",
+    "port_sequence": [
+      "HKHKG",
+      "CNYTN",
+      "KRPUS",
+      "CAVAN",
+      "USLAX",
+      "JPYOK",
+      "MYTPP",
+      "HKHKG"
+    ],
+    "vessel_class": "Post_panamax",
+    "frequency": 1,
+    "capacity_ffe": 4200,
+    "weekly_cost": 3562000.0,
+    "vessels_needed": 6.85
+  },
+  {
+    "route_id": "SOL2_S46",
+    "port_sequence": [
+      "OMSLL",
+      "SGSIN",
+      "MYTPP",
+      "HKHKG",
+      "CNSHA",
+      "MYPKG",
+      "AEJEA",
+      "EGPSD",
+      "ITGIT",
+      "OMSLL"
+    ],
+    "vessel_class": "Post_panamax",
+    "frequency": 1,
+    "capacity_ffe": 4200,
+    "weekly_cost": 4087200.0,
+    "vessels_needed": 7.86
+  },
+  {
+    "route_id": "SOL2_S48",
+    "port_sequence": [
+      "HKHKG",
+      "SGSIN",
+      "MYPKG",
+      "AEJEA",
+      "SAJED",
+      "OMSLL",
+      "MYTPP",
+      "JPYOK",
+      "KRPUS",
+      "CNSHA",
+      "HKHKG"
+    ],
+    "vessel_class": "Post_panamax",
+    "frequency": 1,
+    "capacity_ffe": 4200,
+    "weekly_cost": 3889600.0,
+    "vessels_needed": 7.48
+  },
+  {
+    "route_id": "SOL2_S50",
+    "port_sequence": [
+      "GBFXT",
+      "USCHS",
+      "CAMTR",
+      "DEBRV",
+      "NLRTM",
+      "GBFXT"
+    ],
+    "vessel_class": "Super_panamax",
+    "frequency": 1,
+    "capacity_ffe": 7500,
+    "weekly_cost": 4305817.18,
+    "vessels_needed": 3.94
+  },
+  {
+    "route_id": "SOL2_S51",
+    "port_sequence": [
+      "CNYTN",
+      "ITGIT",
+      "HKHKG",
+      "CNYTN"
+    ],
+    "vessel_class": "Super_panamax",
+    "frequency": 1,
+    "capacity_ffe": 7500,
+    "weekly_cost": 6130871.67,
+    "vessels_needed": 5.61
+  },
+  {
+    "route_id": "EX_001",
+    "port_sequence": [
+      "KRPUS",
+      "CNSHA",
+      "CNYTN",
+      "HKHKG",
+      "MYTPP",
+      "DEBRV",
+      "NLRTM",
+      "GBFXT"
+    ],
+    "vessel_class": "Super_panamax",
+    "frequency": 1,
+    "capacity_ffe": 7500,
+    "weekly_cost": 10928470,
+    "vessels_needed": 10
+  },
+  {
+    "route_id": "EX_002",
+    "port_sequence": [
+      "CNTAO",
+      "HKHKG",
+      "MYTPP",
+      "AEJEA",
+      "KRPUS",
+      "CNYTN",
+      "SGSIN",
+      "NGAPP"
+    ],
+    "vessel_class": "Panamax_2400",
+    "frequency": 1,
+    "capacity_ffe": 2400,
+    "weekly_cost": 5698000,
+    "vessels_needed": 14
+  },
+  {
+    "route_id": "EX_003",
+    "port_sequence": [
+      "CNSHA",
+      "CNYTN",
+      "ZADUR",
+      "USCHS",
+      "DEBRV",
+      "NLRTM"
+    ],
+    "vessel_class": "Panamax_2400",
+    "frequency": 1,
+    "capacity_ffe": 2400,
+    "weekly_cost": 4884000,
+    "vessels_needed": 12
+  },
+  {
+    "route_id": "EX_004",
+    "port_sequence": [
+      "USLAX",
+      "JPYOK",
+      "KRPUS",
+      "CNTAO",
+      "HKHKG",
+      "AUBNE",
+      "TWKHH",
+      "MYTPP",
+      "CNSHA"
+    ],
+    "vessel_class": "Feeder_800",
+    "frequency": 1,
+    "capacity_ffe": 800,
+    "weekly_cost": 2100000,
+    "vessels_needed": 12
+  },
+  {
+    "route_id": "EX_005",
+    "port_sequence": [
+      "HKHKG",
+      "SGSIN",
+      "MYTPP",
+      "EGPSD",
+      "ESALG",
+      "MAPTM",
+      "ITGIT",
+      "LKCMB"
+    ],
+    "vessel_class": "Panamax_1200",
+    "frequency": 1,
+    "capacity_ffe": 1200,
+    "weekly_cost": 1946000,
+    "vessels_needed": 7
+  },
+  {
+    "route_id": "EX_006",
+    "port_sequence": [
+      "CNSHA",
+      "HKHKG",
+      "CNYTN",
+      "MYTPP",
+      "ZADUR",
+      "JPYOK"
+    ],
+    "vessel_class": "Panamax_2400",
+    "frequency": 1,
+    "capacity_ffe": 2400,
+    "weekly_cost": 2849000,
+    "vessels_needed": 7
+  },
+  {
+    "route_id": "EX_007",
+    "port_sequence": [
+      "CNSHA",
+      "JPYOK",
+      "NLRTM",
+      "USCHS",
+      "DEBRV",
+      "MYTPP"
+    ],
+    "vessel_class": "Super_panamax",
+    "frequency": 1,
+    "capacity_ffe": 7500,
+    "weekly_cost": 13114164,
+    "vessels_needed": 12
+  },
+  {
+    "route_id": "EX_008",
+    "port_sequence": [
+      "CNYTN",
+      "CNSHA",
+      "HKHKG",
+      "MYTPP",
+      "JPYOK",
+      "CNTAO",
+      "KRPUS",
+      "USLAX"
+    ],
+    "vessel_class": "Super_panamax",
+    "frequency": 1,
+    "capacity_ffe": 7500,
+    "weekly_cost": 8742776,
+    "vessels_needed": 8
+  },
+  {
+    "route_id": "EX_009",
+    "port_sequence": [
+      "CNSHA",
+      "HKHKG",
+      "MYTPP",
+      "SGSIN",
+      "EGPSD",
+      "NGAPP"
+    ],
+    "vessel_class": "Panamax_2400",
+    "frequency": 1,
+    "capacity_ffe": 2400,
+    "weekly_cost": 4070000,
+    "vessels_needed": 10
+  },
+  {
+    "route_id": "EX_010",
+    "port_sequence": [
+      "CNYTN",
+      "SGSIN",
+      "EGPSD",
+      "DEBRV",
+      "USLAX"
+    ],
+    "vessel_class": "Panamax_2400",
+    "frequency": 1,
+    "capacity_ffe": 2400,
+    "weekly_cost": 4070000,
+    "vessels_needed": 10
+  },
+  {
+    "route_id": "EX_011",
+    "port_sequence": [
+      "MYTPP",
+      "SGSIN",
+      "EGPSD",
+      "ESALG",
+      "MAPTM",
+      "ITGIT"
+    ],
+    "vessel_class": "Feeder_800",
+    "frequency": 1,
+    "capacity_ffe": 800,
+    "weekly_cost": 1225000,
+    "vessels_needed": 7
+  },
+  {
+    "route_id": "EX_012",
+    "port_sequence": [
+      "MYTPP",
+      "CNYTN",
+      "CNSHA",
+      "HKHKG",
+      "BEZEE"
+    ],
+    "vessel_class": "Feeder_800",
+    "frequency": 1,
+    "capacity_ffe": 800,
+    "weekly_cost": 1750000,
+    "vessels_needed": 10
+  },
+  {
+    "route_id": "EX_013",
+    "port_sequence": [
+      "CNSHA",
+      "CNYTN",
+      "HKHKG",
+      "KRPUS",
+      "PABLB"
+    ],
+    "vessel_class": "Feeder_800",
+    "frequency": 1,
+    "capacity_ffe": 800,
+    "weekly_cost": 1575000,
+    "vessels_needed": 9
+  }
+]

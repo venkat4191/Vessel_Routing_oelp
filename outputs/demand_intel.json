@@ -1,0 +1,793 @@
+{
+  "top_hubs": [
+    "CNSHA",
+    "ESBCN",
+    "DEBRV",
+    "MAPTM",
+    "NLRTM"
+  ],
+  "top_od_pairs": [
+    {
+      "origin": "CNSHA",
+      "destination": "DEBRV",
+      "ffe_per_week": 1860.0,
+      "revenue_per_ffe": 3070.0,
+      "weekly_revenue": 5710200.0,
+      "priority_rank": 1
+    },
+    {
+      "origin": "KRPUS",
+      "destination": "DEBRV",
+      "ffe_per_week": 1605.0,
+      "revenue_per_ffe": 3390.0,
+      "weekly_revenue": 5440950.0,
+      "priority_rank": 2
+    },
+    {
+      "origin": "CNYTN",
+      "destination": "NLRTM",
+      "ffe_per_week": 1347.0,
+      "revenue_per_ffe": 2840.0,
+      "weekly_revenue": 3825480.0,
+      "priority_rank": 3
+    },
+    {
+      "origin": "CNSHA",
+      "destination": "NLRTM",
+      "ffe_per_week": 1052.0,
+      "revenue_per_ffe": 2960.0,
+      "weekly_revenue": 3113920.0,
+      "priority_rank": 4
+    },
+    {
+      "origin": "CNYTN",
+      "destination": "USLAX",
+      "ffe_per_week": 1865.0,
+      "revenue_per_ffe": 1620.0,
+      "weekly_revenue": 3021300.0,
+      "priority_rank": 5
+    },
+    {
+      "origin": "JPYOK",
+      "destination": "NLRTM",
+      "ffe_per_week": 882.0,
+      "revenue_per_ffe": 3190.0,
+      "weekly_revenue": 2813580.0,
+      "priority_rank": 6
+    },
+    {
+      "origin": "MYTPP",
+      "destination": "DEBRV",
+      "ffe_per_week": 1041.0,
+      "revenue_per_ffe": 2670.0,
+      "weekly_revenue": 2779470.0,
+      "priority_rank": 7
+    },
+    {
+      "origin": "CNSHA",
+      "destination": "NGAPP",
+      "ffe_per_week": 753.0,
+      "revenue_per_ffe": 3550.0,
+      "weekly_revenue": 2673150.0,
+      "priority_rank": 8
+    },
+    {
+      "origin": "CNYTN",
+      "destination": "DEBRV",
+      "ffe_per_week": 922.0,
+      "revenue_per_ffe": 2760.0,
+      "weekly_revenue": 2544720.0,
+      "priority_rank": 9
+    },
+    {
+      "origin": "CNTAO",
+      "destination": "DEBRV",
+      "ffe_per_week": 840.0,
+      "revenue_per_ffe": 2970.0,
+      "weekly_revenue": 2494800.0,
+      "priority_rank": 10
+    },
+    {
+      "origin": "HKHKG",
+      "destination": "DEBRV",
+      "ffe_per_week": 819.0,
+      "revenue_per_ffe": 2730.0,
+      "weekly_revenue": 2235870.0,
+      "priority_rank": 11
+    },
+    {
+      "origin": "CNYTN",
+      "destination": "GBFXT",
+      "ffe_per_week": 710.0,
+      "revenue_per_ffe": 3050.0,
+      "weekly_revenue": 2165500.0,
+      "priority_rank": 12
+    },
+    {
+      "origin": "HKHKG",
+      "destination": "NLRTM",
+      "ffe_per_week": 782.0,
+      "revenue_per_ffe": 2690.0,
+      "weekly_revenue": 2103580.0,
+      "priority_rank": 13
+    },
+    {
+      "origin": "ECGYE",
+      "destination": "DEBRV",
+      "ffe_per_week": 759.0,
+      "revenue_per_ffe": 2750.0,
+      "weekly_revenue": 2087250.0,
+      "priority_rank": 14
+    },
+    {
+      "origin": "MYTPP",
+      "destination": "NLRTM",
+      "ffe_per_week": 762.0,
+      "revenue_per_ffe": 2660.0,
+      "weekly_revenue": 2026920.0,
+      "priority_rank": 15
+    },
+    {
+      "origin": "CNSHA",
+      "destination": "ITGIT",
+      "ffe_per_week": 704.0,
+      "revenue_per_ffe": 2860.0,
+      "weekly_revenue": 2013440.0,
+      "priority_rank": 16
+    },
+    {
+      "origin": "CNSHA",
+      "destination": "USLAX",
+      "ffe_per_week": 1206.0,
+      "revenue_per_ffe": 1610.0,
+      "weekly_revenue": 1941660.0,
+      "priority_rank": 17
+    },
+    {
+      "origin": "CNSHA",
+      "destination": "BRSSZ",
+      "ffe_per_week": 477.0,
+      "revenue_per_ffe": 3970.0,
+      "weekly_revenue": 1893690.0,
+      "priority_rank": 18
+    },
+    {
+      "origin": "BRSSZ",
+      "destination": "DEBRV",
+      "ffe_per_week": 881.0,
+      "revenue_per_ffe": 1930.0,
+      "weekly_revenue": 1700330.0,
+      "priority_rank": 19
+    },
+    {
+      "origin": "CNSHA",
+      "destination": "GBFXT",
+      "ffe_per_week": 485.0,
+      "revenue_per_ffe": 3170.0,
+      "weekly_revenue": 1537450.0,
+      "priority_rank": 20
+    },
+    {
+      "origin": "CNSHA",
+      "destination": "ESALG",
+      "ffe_per_week": 541.0,
+      "revenue_per_ffe": 2790.0,
+      "weekly_revenue": 1509390.0,
+      "priority_rank": 21
+    },
+    {
+      "origin": "HKHKG",
+      "destination": "USLAX",
+      "ffe_per_week": 924.0,
+      "revenue_per_ffe": 1590.0,
+      "weekly_revenue": 1469160.0,
+      "priority_rank": 22
+    },
+    {
+      "origin": "CNYTN",
+      "destination": "ITGIT",
+      "ffe_per_week": 531.0,
+      "revenue_per_ffe": 2700.0,
+      "weekly_revenue": 1433700.0,
+      "priority_rank": 23
+    },
+    {
+      "origin": "MYTPP",
+      "destination": "ITGIT",
+      "ffe_per_week": 517.0,
+      "revenue_per_ffe": 2730.0,
+      "weekly_revenue": 1411410.0,
+      "priority_rank": 24
+    },
+    {
+      "origin": "CNTAO",
+      "destination": "NGAPP",
+      "ffe_per_week": 383.0,
+      "revenue_per_ffe": 3670.0,
+      "weekly_revenue": 1405610.0,
+      "priority_rank": 25
+    },
+    {
+      "origin": "MYTPP",
+      "destination": "USLAX",
+      "ffe_per_week": 991.0,
+      "revenue_per_ffe": 1400.0,
+      "weekly_revenue": 1387400.0,
+      "priority_rank": 26
+    },
+    {
+      "origin": "HKHKG",
+      "destination": "NGAPP",
+      "ffe_per_week": 488.0,
+      "revenue_per_ffe": 2720.0,
+      "weekly_revenue": 1327360.0,
+      "priority_rank": 27
+    },
+    {
+      "origin": "CNSHA",
+      "destination": "ZADUR",
+      "ffe_per_week": 493.0,
+      "revenue_per_ffe": 2630.0,
+      "weekly_revenue": 1296590.0,
+      "priority_rank": 28
+    },
+    {
+      "origin": "CNTAO",
+      "destination": "ITGIT",
+      "ffe_per_week": 400.0,
+      "revenue_per_ffe": 3210.0,
+      "weekly_revenue": 1284000.0,
+      "priority_rank": 29
+    },
+    {
+      "origin": "HKHKG",
+      "destination": "BRSSZ",
+      "ffe_per_week": 319.0,
+      "revenue_per_ffe": 3830.0,
+      "weekly_revenue": 1221770.0,
+      "priority_rank": 30
+    },
+    {
+      "origin": "DEBRV",
+      "destination": "ZADUR",
+      "ffe_per_week": 493.0,
+      "revenue_per_ffe": 2470.0,
+      "weekly_revenue": 1217710.0,
+      "priority_rank": 31
+    },
+    {
+      "origin": "CNTAO",
+      "destination": "NLRTM",
+      "ffe_per_week": 402.0,
+      "revenue_per_ffe": 2980.0,
+      "weekly_revenue": 1197960.0,
+      "priority_rank": 32
+    },
+    {
+      "origin": "HKHKG",
+      "destination": "ITGIT",
+      "ffe_per_week": 434.0,
+      "revenue_per_ffe": 2750.0,
+      "weekly_revenue": 1193500.0,
+      "priority_rank": 33
+    },
+    {
+      "origin": "MYTPP",
+      "destination": "GBFXT",
+      "ffe_per_week": 435.0,
+      "revenue_per_ffe": 2720.0,
+      "weekly_revenue": 1183200.0,
+      "priority_rank": 34
+    },
+    {
+      "origin": "CNYTN",
+      "destination": "ESALG",
+      "ffe_per_week": 426.0,
+      "revenue_per_ffe": 2730.0,
+      "weekly_revenue": 1162980.0,
+      "priority_rank": 35
+    },
+    {
+      "origin": "CNSHA",
+      "destination": "GHTKD",
+      "ffe_per_week": 281.0,
+      "revenue_per_ffe": 3650.0,
+      "weekly_revenue": 1025650.0,
+      "priority_rank": 36
+    },
+    {
+      "origin": "NLRTM",
+      "destination": "JPYOK",
+      "ffe_per_week": 664.0,
+      "revenue_per_ffe": 1530.0,
+      "weekly_revenue": 1015920.0,
+      "priority_rank": 37
+    },
+    {
+      "origin": "MYTPP",
+      "destination": "NGAPP",
+      "ffe_per_week": 414.0,
+      "revenue_per_ffe": 2420.0,
+      "weekly_revenue": 1001880.0,
+      "priority_rank": 38
+    },
+    {
+      "origin": "HKHKG",
+      "destination": "ZADUR",
+      "ffe_per_week": 507.0,
+      "revenue_per_ffe": 1960.0,
+      "weekly_revenue": 993720.0,
+      "priority_rank": 39
+    },
+    {
+      "origin": "CNYTN",
+      "destination": "USEWR",
+      "ffe_per_week": 421.0,
+      "revenue_per_ffe": 2340.0,
+      "weekly_revenue": 985140.0,
+      "priority_rank": 40
+    },
+    {
+      "origin": "KRPUS",
+      "destination": "EGPSD",
+      "ffe_per_week": 281.0,
+      "revenue_per_ffe": 3420.0,
+      "weekly_revenue": 961020.0,
+      "priority_rank": 41
+    },
+    {
+      "origin": "CNYTN",
+      "destination": "USCHS",
+      "ffe_per_week": 409.0,
+      "revenue_per_ffe": 2280.0,
+      "weekly_revenue": 932520.0,
+      "priority_rank": 42
+    },
+    {
+      "origin": "USCHS",
+      "destination": "ZADUR",
+      "ffe_per_week": 269.0,
+      "revenue_per_ffe": 3350.0,
+      "weekly_revenue": 901150.0,
+      "priority_rank": 43
+    },
+    {
+      "origin": "JPYOK",
+      "destination": "USLAX",
+      "ffe_per_week": 473.0,
+      "revenue_per_ffe": 1900.0,
+      "weekly_revenue": 898700.0,
+      "priority_rank": 44
+    },
+    {
+      "origin": "AEJEA",
+      "destination": "NGAPP",
+      "ffe_per_week": 359.0,
+      "revenue_per_ffe": 2480.0,
+      "weekly_revenue": 890320.0,
+      "priority_rank": 45
+    },
+    {
+      "origin": "CNTAO",
+      "destination": "USLAX",
+      "ffe_per_week": 668.0,
+      "revenue_per_ffe": 1330.0,
+      "weekly_revenue": 888440.0,
+      "priority_rank": 46
+    },
+    {
+      "origin": "CNTAO",
+      "destination": "ESALG",
+      "ffe_per_week": 281.0,
+      "revenue_per_ffe": 3150.0,
+      "weekly_revenue": 885150.0,
+      "priority_rank": 47
+    },
+    {
+      "origin": "CNYTN",
+      "destination": "CAVAN",
+      "ffe_per_week": 513.0,
+      "revenue_per_ffe": 1690.0,
+      "weekly_revenue": 866970.0,
+      "priority_rank": 48
+    },
+    {
+      "origin": "KRPUS",
+      "destination": "NGAPP",
+      "ffe_per_week": 277.0,
+      "revenue_per_ffe": 3100.0,
+      "weekly_revenue": 858700.0,
+      "priority_rank": 49
+    },
+    {
+      "origin": "DEBRV",
+      "destination": "JPYOK",
+      "ffe_per_week": 555.0,
+      "revenue_per_ffe": 1530.0,
+      "weekly_revenue": 849150.0,
+      "priority_rank": 50
+    }
+  ],
+  "hub_rankings": [
+    {
+      "unlocode": "CNSHA",
+      "name": "Shanghai",
+      "d_region": "Central China",
+      "hub_score": 0.776,
+      "classification": "Primary Hub",
+      "reasoning": "Exhibits the highest hub score, significant betweenness, high demand, and serves as a major origin for numerous high-revenue OD pairs, indicating its central role in the network."
+    },
+    {
+      "unlocode": "ESBCN",
+      "name": "Barcelona",
+      "d_region": "West Med",
+      "hub_score": 0.536,
+      "classification": "Secondary Hub",
+      "reasoning": "Possesses high betweenness and a strong hub score, suggesting its importance as a transshipment point, particularly within the West Mediterranean region."
+    },
+    {
+      "unlocode": "DEBRV",
+      "name": "Bremerhaven",
+      "d_region": "North Continent Europe",
+      "hub_score": 0.5,
+      "classification": "Origin/Destination Port",
+      "reasoning": "Despite zero betweenness, it has exceptionally high inbound demand and is a frequent destination for top-revenue OD pairs, functioning as a critical European gateway."
+    },
+    {
+      "unlocode": "MAPTM",
+      "name": "Tangier",
+      "d_region": "West Med",
+      "hub_score": 0.494,
+      "classification": "Secondary Hub",
+      "reasoning": "Features high betweenness and a solid hub score, positioning it as a key transshipment and regional distribution point in the West Mediterranean."
+    },
+    {
+      "unlocode": "NLRTM",
+      "name": "Rotterdam",
+      "d_region": "North Continent Europe",
+      "hub_score": 0.397,
+      "classification": "Origin/Destination Port",
+      "reasoning": "With very low betweenness but extremely high inbound demand and frequent appearance as a destination in top OD pairs, it serves as a primary gateway for North Continent Europe."
+    },
+    {
+      "unlocode": "CNYTN",
+      "name": "Shenzhen",
+      "d_region": "South China",
+      "hub_score": 0.349,
+      "classification": "Origin/Destination Port",
+      "reasoning": "Shows low betweenness but is a significant origin for multiple high-revenue OD pairs, indicating its role as a major cargo generating port in South China."
+    },
+    {
+      "unlocode": "MYTPP",
+      "name": "Tanjung Pelepas",
+      "d_region": "Singapore",
+      "hub_score": 0.322,
+      "classification": "Regional Hub",
+      "reasoning": "Despite zero betweenness, its high demand and strategic location in the Singapore region suggest it acts as a crucial gateway and regional distribution point for Southeast Asia."
+    },
+    {
+      "unlocode": "HKHKG",
+      "name": "Hong Kong",
+      "d_region": "Hong Kong",
+      "hub_score": 0.316,
+      "classification": "Origin/Destination Port",
+      "reasoning": "Characterized by zero betweenness but high inbound demand and frequent appearance as an origin in top OD pairs, marking it as a major cargo gateway for its region."
+    },
+    {
+      "unlocode": "AEJEA",
+      "name": "Jebel Ali",
+      "d_region": "Dubai",
+      "hub_score": 0.287,
+      "classification": "Regional Hub",
+      "reasoning": "Possesses a moderate hub score and high inbound demand, establishing it as a vital gateway and distribution center for the Middle East."
+    },
+    {
+      "unlocode": "KRPUS",
+      "name": "Busan",
+      "d_region": "Korea",
+      "hub_score": 0.267,
+      "classification": "Origin/Destination Port",
+      "reasoning": "Exhibits low betweenness but significant inbound demand and appears as a key origin in top OD pairs, solidifying its role as a major gateway for Korea."
+    },
+    {
+      "unlocode": "OMSLL",
+      "name": "Salalah",
+      "d_region": "Saudi Arabia",
+      "hub_score": 0.2624,
+      "classification": "Origin/Destination Port",
+      "reasoning": ""
+    },
+    {
+      "unlocode": "USCHS",
+      "name": "Charleston",
+      "d_region": "US East Coast",
+      "hub_score": 0.2444,
+      "classification": "Origin/Destination Port",
+      "reasoning": ""
+    },
+    {
+      "unlocode": "MYPKG",
+      "name": "Port Klang",
+      "d_region": "Singapore",
+      "hub_score": 0.2367,
+      "classification": "Origin/Destination Port",
+      "reasoning": ""
+    },
+    {
+      "unlocode": "LKCMB",
+      "name": "Colombo",
+      "d_region": "Mumbai",
+      "hub_score": 0.2345,
+      "classification": "Origin/Destination Port",
+      "reasoning": ""
+    },
+    {
+      "unlocode": "TWKHH",
+      "name": "Kaohsiung",
+      "d_region": "Singapore",
+      "hub_score": 0.2242,
+      "classification": "Origin/Destination Port",
+      "reasoning": ""
+    },
+    {
+      "unlocode": "ZADUR",
+      "name": "Durban",
+      "d_region": "South Africa",
+      "hub_score": 0.2126,
+      "classification": "Origin/Destination Port",
+      "reasoning": ""
+    },
+    {
+      "unlocode": "CNTAO",
+      "name": "Qingdao",
+      "d_region": "North China",
+      "hub_score": 0.2106,
+      "classification": "Origin/Destination Port",
+      "reasoning": ""
+    },
+    {
+      "unlocode": "NGAPP",
+      "name": "Apapa",
+      "d_region": "West Africa",
+      "hub_score": 0.2071,
+      "classification": "Origin/Destination Port",
+      "reasoning": ""
+    },
+    {
+      "unlocode": "TRAMB",
+      "name": "Ambarli",
+      "d_region": "West Med",
+      "hub_score": 0.1635,
+      "classification": "Origin/Destination Port",
+      "reasoning": ""
+    },
+    {
+      "unlocode": "DEHAM",
+      "name": "Hamburg",
+      "d_region": "North Continent Europe",
+      "hub_score": 0.1575,
+      "classification": "Origin/Destination Port",
+      "reasoning": ""
+    },
+    {
+      "unlocode": "SAJED",
+      "name": "Jeddah",
+      "d_region": "Saudi Arabia",
+      "hub_score": 0.1536,
+      "classification": "Origin/Destination Port",
+      "reasoning": ""
+    },
+    {
+      "unlocode": "BEZEE",
+      "name": "Zeebrugge",
+      "d_region": "North Continent Europe",
+      "hub_score": 0.1486,
+      "classification": "Origin/Destination Port",
+      "reasoning": ""
+    },
+    {
+      "unlocode": "INNSA",
+      "name": "Jawaharlal Nehru",
+      "d_region": "Mumbai",
+      "hub_score": 0.1396,
+      "classification": "Origin/Destination Port",
+      "reasoning": ""
+    },
+    {
+      "unlocode": "USEWR",
+      "name": "Newark",
+      "d_region": "US East Coast",
+      "hub_score": 0.1354,
+      "classification": "Origin/Destination Port",
+      "reasoning": ""
+    },
+    {
+      "unlocode": "AUBNE",
+      "name": "Brisbane",
+      "d_region": "Australia",
+      "hub_score": 0.1351,
+      "classification": "Origin/Destination Port",
+      "reasoning": ""
+    },
+    {
+      "unlocode": "ESALG",
+      "name": "Algeciras",
+      "d_region": "West Med",
+      "hub_score": 0.1187,
+      "classification": "Origin/Destination Port",
+      "reasoning": ""
+    },
+    {
+      "unlocode": "SGSIN",
+      "name": "Singapore",
+      "d_region": "Singapore",
+      "hub_score": 0.1175,
+      "classification": "Origin/Destination Port",
+      "reasoning": ""
+    },
+    {
+      "unlocode": "EGPSD",
+      "name": "Port Said",
+      "d_region": "West Med",
+      "hub_score": 0.1116,
+      "classification": "Origin/Destination Port",
+      "reasoning": ""
+    },
+    {
+      "unlocode": "PAMIT",
+      "name": "Manzanillo",
+      "d_region": "US West Coast",
+      "hub_score": 0.1001,
+      "classification": "Origin/Destination Port",
+      "reasoning": ""
+    },
+    {
+      "unlocode": "BEANR",
+      "name": "Antwerp",
+      "d_region": "North Continent Europe",
+      "hub_score": 0.0993,
+      "classification": "Origin/Destination Port",
+      "reasoning": ""
+    },
+    {
+      "unlocode": "GHTKD",
+      "name": "Takoradi",
+      "d_region": "West Africa",
+      "hub_score": 0.0958,
+      "classification": "Origin/Destination Port",
+      "reasoning": ""
+    },
+    {
+      "unlocode": "CAVAN",
+      "name": "Vancouver",
+      "d_region": "Canada West",
+      "hub_score": 0.0951,
+      "classification": "Origin/Destination Port",
+      "reasoning": ""
+    },
+    {
+      "unlocode": "CLSAI",
+      "name": "San Antonio",
+      "d_region": "South America West Coast",
+      "hub_score": 0.0894,
+      "classification": "Origin/Destination Port",
+      "reasoning": ""
+    },
+    {
+      "unlocode": "PABLB",
+      "name": "Balboa",
+      "d_region": "US West Coast",
+      "hub_score": 0.0868,
+      "classification": "Origin/Destination Port",
+      "reasoning": ""
+    },
+    {
+      "unlocode": "USMIA",
+      "name": "Miami",
+      "d_region": "US Gulf Coast",
+      "hub_score": 0.0824,
+      "classification": "Origin/Destination Port",
+      "reasoning": ""
+    },
+    {
+      "unlocode": "PKBQM",
+      "name": "Port Qasim",
+      "d_region": "Mumbai",
+      "hub_score": 0.0819,
+      "classification": "Origin/Destination Port",
+      "reasoning": ""
+    },
+    {
+      "unlocode": "ECGYE",
+      "name": "Guayaquil",
+      "d_region": "South America West Coast",
+      "hub_score": 0.0765,
+      "classification": "Origin/Destination Port",
+      "reasoning": ""
+    },
+    {
+      "unlocode": "NZAKL",
+      "name": "Auckland",
+      "d_region": "Australia",
+      "hub_score": 0.0707,
+      "classification": "Origin/Destination Port",
+      "reasoning": ""
+    },
+    {
+      "unlocode": "KEMBA",
+      "name": "Mombasa",
+      "d_region": "South Africa",
+      "hub_score": 0.0705,
+      "classification": "Origin/Destination Port",
+      "reasoning": ""
+    },
+    {
+      "unlocode": "UYMVD",
+      "name": "Montevideo",
+      "d_region": "Brazil",
+      "hub_score": 0.0509,
+      "classification": "Origin/Destination Port",
+      "reasoning": ""
+    },
+    {
+      "unlocode": "AOLAD",
+      "name": "Luanda",
+      "d_region": "West Africa",
+      "hub_score": 0.0444,
+      "classification": "Origin/Destination Port",
+      "reasoning": ""
+    },
+    {
+      "unlocode": "CAMTR",
+      "name": "Montreal",
+      "d_region": "Canada East Coast",
+      "hub_score": 0.0236,
+      "classification": "Origin/Destination Port",
+      "reasoning": ""
+    },
+    {
+      "unlocode": "ITGIT",
+      "name": "Gioia Tauro",
+      "d_region": "West Med",
+      "hub_score": 0.0,
+      "classification": "Regional Hub",
+      "reasoning": "Its strategic location in the Mediterranean and appearance as a destination for a major Asian route suggest its role as a transshipment and regional distribution hub."
+    },
+    {
+      "unlocode": "USLAX",
+      "name": "Los Angeles",
+      "d_region": "US West Coast",
+      "hub_score": 0.0,
+      "classification": "Origin/Destination Port",
+      "reasoning": "Appears as a high-volume destination for major trans-Pacific routes, signifying its role as a critical gateway for the North American West Coast."
+    },
+    {
+      "unlocode": "JPYOK",
+      "name": "Yokohama",
+      "d_region": "Japan",
+      "hub_score": 0.0,
+      "classification": "Origin/Destination Port",
+      "reasoning": "Appears as a significant origin for a high-revenue route to Europe, indicating its role as a major cargo generating port for Japan."
+    },
+    {
+      "unlocode": "GBFXT",
+      "name": "Felixstowe",
+      "d_region": "UK",
+      "hub_score": 0.0,
+      "classification": "Origin/Destination Port",
+      "reasoning": "Serves as a significant destination for high-revenue routes from Asia, establishing it as a primary gateway for the United Kingdom."
+    },
+    {
+      "unlocode": "BRSSZ",
+      "name": "Santos",
+      "d_region": "Brazil",
+      "hub_score": 0.0,
+      "classification": "Origin/Destination Port",
+      "reasoning": "Functions as a key origin and destination for high-revenue routes connecting South America with Europe and Asia, highlighting its importance as a regional gateway."
+    }
+  ],
+  "llm_enriched": true,
+  "llm_summary": "The analysis reveals a clear distinction between major transshipment hubs and high-volume origin/destination gateways within the LINERLIB WorldSmall instance. Shanghai, Barcelona, and Tangier emerge as primary or secondary hubs due to their high hub scores and betweenness, indicating their central role in network connectivity. Conversely, ports like Bremerhaven, Rotterdam, and Shenzhen, despite low betweenness, are critical high-demand gateways, driving significant revenue through direct cargo flows. The network appears to be structured around a few key transshipment points connecting major cargo generation and consumption regions across Asia, Europe, and the Americas.",
+  "total_weekly_demand_ffe": 138247.0,
+  "total_max_revenue": 264870100.0
+}
